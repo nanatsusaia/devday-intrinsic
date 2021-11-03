@@ -1,0 +1,17 @@
+{
+  "name": "devday-intrinsic",
+  "version": "1.0.0",
+  "repository": "git@github.com:nanatsusaia/devday-intrinsic.git",
+  "author": "Daniel Wagner <daniel.wagner@finanzen.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.0",
+    "parcel": "^2.0.0"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html",
+    "clear": "npx remove-node-modules && rm yarn.lock"
+  }
+}

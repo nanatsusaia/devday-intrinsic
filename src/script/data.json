@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "news-01",
+      "image": {
+        "src": "asset/image/federal-reserve-building.jpg",
+        "alt": "Global stocks tread water after hitting"
+      },
+      "source": "Business Insider",
+      "date": "53m",
+      "title": "Global stocks tread water after hitting record highs, as all eyes turn to the Federal Reserve",
+      "text": "Stock market investors expect the Federal Reserve to start cutting back on its $120 billion in monthly bond purchases.",
+      "readMore": true
+    },
+    {
+      "id": "news-02",
+      "image": {
+        "src": "asset/image/avis-rental-car.jpeg",
+        "alt": "Global stocks tread water after hitting"
+      },
+      "source": "Business Insider",
+      "date": "21h",
+      "title": "Goldman Sachs sees ethereum rallying 80% to $8,000 within two months if it keeps tracking inflation",
+      "text": "Goldman Sachs said ethereum has tracked inflation expectations closely, meaning it could be set to surge.",
+      "readMore": false
+    },
+    {
+      "id": "news-03",
+      "image": {
+        "src": "asset/image/ethereum-candle-chart.jpeg",
+        "alt": "Global stocks tread water after hitting"
+      },
+      "source": "Business Insider",
+      "date": "23h",
+      "title": "Avis soars 212% as investors pile in following Elon Musk's tweet casting doubt over Hertz deal, strong earnings, and a possible short-squeeze",
+      "text": "With the car rental firm gaining more than $25 billion in market value on Tuesday, the shorts have lost billions of dollars.",
+      "readMore": true
+    }
+  ]
+}

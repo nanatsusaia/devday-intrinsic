@@ -6,7 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0",
-    "parcel": "^2.0.0"
+    "parcel": "^2.0.0",
+    "posthtml-include": "^1.7.2"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {

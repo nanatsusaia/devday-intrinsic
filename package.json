@@ -5,8 +5,8 @@
   "author": "Daniel Wagner <daniel.wagner@finanzen.net>",
   "license": "MIT",
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.0",
-    "parcel": "^2.0.0",
+    "@parcel/transformer-sass": "2.0.0-nightly.651",
+    "parcel": "2.0.0-nightly.649",
     "posthtml-include": "^1.7.2"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead",

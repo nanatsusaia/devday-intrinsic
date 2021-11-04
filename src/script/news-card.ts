@@ -7,6 +7,10 @@ class NewsCard {
     };
 
     news.data.forEach(newsData => this.create(newsData));
+    news.data.forEach(newsData => this.create(newsData));
+    news.data.forEach(newsData => this.create(newsData));
+    news.data.forEach(newsData => this.create(newsData));
+    news.data.forEach(newsData => this.create(newsData));
   }
 
   create(newsData) {
